@@ -1,0 +1,8 @@
+numpy
+pandas
+datasets
+matplotlib
+dotenv
+scikit-learn
+openai
+google.generativeai
