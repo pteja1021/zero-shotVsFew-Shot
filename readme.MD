@@ -15,6 +15,6 @@ Twitter dataset is downloaded from Kaggle. Link found here: https://www.kaggle.c
 
 ### Understanding & Running the project
 1. Downlaod the required libraries and datasets from mentioned places.
-2. Create a .env file in each folder, place your open ai key with key as OPENAI_API_KEY and gemini using 
+2. Create a .env file in each folder, place your open ai key with key as OPENAI_API_KEY and gemini using GEMINI_API_KEY
 3. Inside the twitter folder, place only the twitter dataset csv file. You will find twitter_llm file. This file is targeted towards testing the performance on twitter dataset and print classification matrices
 4. Inside the sst-2 folder, You will find sst_llm file. This file is targeted towards testing the performance on sst-2 dataset from python datasets module and print classification matrices to compare performance
